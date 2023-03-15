@@ -1,1 +1,19 @@
-
+{
+  "name": "homebridge-speed",
+  "version": "1.0.0",
+  "description": "Speed Test Monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raiubreaksthings/homebridge-speed.git"
+  },
+  "author": "Justin Price with Chat GPT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raiubreaksthings/homebridge-speed/issues"
+  },
+  "homepage": "https://github.com/raiubreaksthings/homebridge-speed#readme"
+}
